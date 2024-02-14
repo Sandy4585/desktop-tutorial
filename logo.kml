@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Company Logo</name>
+      <ScreenOverlay>
+        <name>Company Logo</name>
+        <Icon>
+          <a href="https://ibb.co/26D2SYX"><img src="https://i.ibb.co/26D2SYX/zeeconvert-com.jpg" alt="zeeconvert-com" border="0"></a>
+        </Icon>
+        <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+        <screenXY x="0.02" y="0.98" xunits="fraction" yunits="fraction"/>
+        <size x="0.1" y="0.1" xunits="fraction" yunits="fraction"/>
+      </ScreenOverlay>
+    </Folder>
+  </Document>
+</kml>
